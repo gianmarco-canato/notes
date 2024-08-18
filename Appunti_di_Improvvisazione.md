@@ -293,13 +293,13 @@ Si riporta il testo integrale della tesi di Intermedia, preso da appunti trovati
 
 2.3. Gli specialisti propongono in particolare esercizi come segue:
 
-    a) per la composizione musicale e gli strumenti, fornire nozioni e proporre esercizi sulle forme musicali, sulla grafia, sull'improvvisazione, sui sistemi musicali, specie contemporanei, sull'approccio agli strumenti di vario genere (fiati, corde, percussioni, elettronici), sulle tecniche sperimentali sugli strumenti;
+    a. per la composizione musicale e gli strumenti, fornire nozioni e proporre esercizi sulle forme musicali, sulla grafia, sull'improvvisazione, sui sistemi musicali, specie contemporanei, sull'approccio agli strumenti di vario genere (fiati, corde, percussioni, elettronici), sulle tecniche sperimentali sugli strumenti;
 
-    b) per la voce cantata, fornire nozioni e proporre esercizi sulla respirazione, sulle diverse impostazioni, sull'intonazione, sulle tecniche sperimentali, sulle varie "specialità" di canto (lirico, popolare, leggero, etc.) e sul loro uso in esecuzioni improvvisate o no;
+    b. per la voce cantata, fornire nozioni e proporre esercizi sulla respirazione, sulle diverse impostazioni, sull'intonazione, sulle tecniche sperimentali, sulle varie "specialità" di canto (lirico, popolare, leggero, etc.) e sul loro uso in esecuzioni improvvisate o no;
 
-    c) per i movimenti corporei, fornire nozioni e proporre esercizi su elementi di danza e/o di mimo, di scioglimento muscolare, su dominio del corpo, sui rapporti fra i corpi nello spazio, di improvvisazione col movimento;
+    c. per i movimenti corporei, fornire nozioni e proporre esercizi su elementi di danza e/o di mimo, di scioglimento muscolare, su dominio del corpo, sui rapporti fra i corpi nello spazio, di improvvisazione col movimento;
 
-    d) per le tecniche della parola, fornire nozioni e proporre esercizi su dizione, su deformazione timbrica o temporale della parola, sull'uso della parola in connessione con la voce cantata, su giochi logici con parole, su azioni con parole (teatro di prosa), sull'improvvisazione verbale.
+    d. per le tecniche della parola, fornire nozioni e proporre esercizi su dizione, su deformazione timbrica o temporale della parola, sull'uso della parola in connessione con la voce cantata, su giochi logici con parole, su azioni con parole (teatro di prosa), sull'improvvisazione verbale.
 
 2.4. Per raggiungere un buon grado di abilità personale e di amalgama di gruppo è necessario lavorare con costanza senza fermarsi a risultati elementari. E' indispensabile, accanto al lavoro fatto in gruppo, realizzare esercizi personali: questo è tanto più importante per gli esercizi di canto o con gli strumenti.
 
@@ -309,23 +309,23 @@ Si riporta il testo integrale della tesi di Intermedia, preso da appunti trovati
 
 3.3. Esempi di esercizi elementari fatti (e da riprendere) sono:
 
-    a) sul suono strumentale: esercizi di poliritmia su percussioni, di emissione di armonici da oggetti sonori (piatti, gong, campane di vetro, etc.), di emissioni elementari su strumenti a fiato, a corda, elettronici;
+    a. sul suono strumentale: esercizi di poliritmia su percussioni, di emissione di armonici da oggetti sonori (piatti, gong, campane di vetro, etc.), di emissioni elementari su strumenti a fiato, a corda, elettronici;
 
-    b) sulla voce cantata: esercizi di respirazione, di emissione (vari tipi di impostazione), di intonazione (unisono, glissati, fasce sonore), di "rumori" vocali;
+    b. sulla voce cantata: esercizi di respirazione, di emissione (vari tipi di impostazione), di intonazione (unisono, glissati, fasce sonore), di "rumori" vocali;
 
-    c) sul movimento: esercizi di scioglimento o controllo disarticolato di parti del corpo, di controllo dello spazio, di movimento interpersonale;
+    c. sul movimento: esercizi di scioglimento o controllo disarticolato di parti del corpo, di controllo dello spazio, di movimento interpersonale;
 
-    d) sulla parola: esercizi di scomposizione fonetica, di timbriche diverse nell'emissione, di uso della parola per "concentrazione" interpersonale, per giochi verbali fra operatori e pubblco.
+    d. sulla parola: esercizi di scomposizione fonetica, di timbriche diverse nell'emissione, di uso della parola per "concentrazione" interpersonale, per giochi verbali fra operatori e pubblco.
 
 3.4. Esempi di esercizi da fare possono essere:
 
-    a) sul suono strumentale: tecniche meno elementari nel trattamento delle percussioni (poliritmia, passaggi di abilità, rullati, etc.), studio di armonici controllati, emissioni più elaborate e controllate da strumenti a fiato, corde, elettronici, esercizi con strutture strumentali da "comporre", studio elementare di tastiere;
+    a. sul suono strumentale: tecniche meno elementari nel trattamento delle percussioni (poliritmia, passaggi di abilità, rullati, etc.), studio di armonici controllati, emissioni più elaborate e controllate da strumenti a fiato, corde, elettronici, esercizi con strutture strumentali da "comporre", studio elementare di tastiere;
 
-    b) sulla voce cantata: sviluppo di esercizi di respirazione, emissione e intonazione, intervalli temperati e extratemperati, studio di "armonici" controllati, esecizi con strutture da montare, esecuzione o improvvisazione in "stili" diversi (sperimentale, liricheggiante, leggero, popolare, etc.);
+    b. sulla voce cantata: sviluppo di esercizi di respirazione, emissione e intonazione, intervalli temperati e extratemperati, studio di "armonici" controllati, esecizi con strutture da montare, esecuzione o improvvisazione in "stili" diversi (sperimentale, liricheggiante, leggero, popolare, etc.);
 
-    c) sul movimento: esercizi più elaborati di controllo del corpo e dello spazio, esecizi di montaggio di "strutture" del movimento;
+    c. sul movimento: esercizi più elaborati di controllo del corpo e dello spazio, esecizi di montaggio di "strutture" del movimento;
 
-    d) sulla parola: sviluppo degli esercizi fatti, invenzionie di nuovi usi della parola specie in improvvisazione verbale.
+    d. sulla parola: sviluppo degli esercizi fatti, invenzionie di nuovi usi della parola specie in improvvisazione verbale.
 
 3.5. Possono essere sviluppati esercizi di transizione da un medium all'altro (ad es. da suono vocale a suono/rumore strumentale a suono/rumore fonetico) o esercizi di simultaneità o successività di "media" (ad esempio parola + canto + movimento + strumenti oppure, al contrario, successione di solo canto, solo strumenti, solo parola, solo movimento). E' possibile, cioè, eseguire "eventi totali" o eventi specialistici eseguiti da tutti gli operatori: un'azione mimica in silenzio, una scena di "teatro di prosa", un brano polifonico, un brano strumentale.
 
@@ -333,13 +333,13 @@ Si riporta il testo integrale della tesi di Intermedia, preso da appunti trovati
 
     Oggetti sonori sono:
 
-    a) gli strumenti: a percussione (tamburi, piatti, gong, campanelli, lastre, maracas, campana di vetro, etc.), a corda (pianoforte, saranghi, vahila, altri cordofoni semplici), a fiato (trombone, flauti dolci, fischietti vari), elettronici (tastiere, sintetizzatori),
-    b) i modificari di suono: microfoni, sistemi di filtraggio per voci e strumenti.
+    a. gli strumenti: a percussione (tamburi, piatti, gong, campanelli, lastre, maracas, campana di vetro, etc.), a corda (pianoforte, saranghi, vahila, altri cordofoni semplici), a fiato (trombone, flauti dolci, fischietti vari), elettronici (tastiere, sintetizzatori),
+    b. i modificari di suono: microfoni, sistemi di filtraggio per voci e strumenti.
 
     Oggetti visivi sono:
 
-    a) gli oggetti scenici: maschere, elementi scenici,
-    b) elementi d'illuminazione: luci comandate direttamente dagli esecutori, specie in situazioni d'improvvisazione.
+    a. gli oggetti scenici: maschere, elementi scenici,
+    b. elementi d'illuminazione: luci comandate direttamente dagli esecutori, specie in situazioni d'improvvisazione.
 
 In genere in INTERMEDIA sono usati gli operatori e quanto attiene alla loro diretta operazione. Da qui l'assenza di scene, elementi di "racconto" o "ambientazione" narrativa. Altri oggetti sonori o visivi potranno essere introdotti.
 
@@ -347,23 +347,23 @@ In genere in INTERMEDIA sono usati gli operatori e quanto attiene alla loro dire
 
 4.1. I tipi di realizzazione proposti o da proporre al pubblico, come risultato di esercizi, possono essere:
 
-    a) eventi a improvvisazione totale (gli operatori giungono di fronte al pubblico con i loro oggetti senza aver concordato alcun schema di svolgimento),
+    a. eventi a improvvisazione totale (gli operatori giungono di fronte al pubblico con i loro oggetti senza aver concordato alcun schema di svolgimento),
 
-    b) eventi elaborati su canovaccio (gli operatori eseguono sulla base di una traccia, che può essere un "percorso" di eventi - da principio a fine - o un "montaggio improvvisato di strutture preordinate),
+    b. eventi elaborati su canovaccio (gli operatori eseguono sulla base di una traccia, che può essere un "percorso" di eventi - da principio a fine - o un "montaggio improvvisato di strutture preordinate),
 
-    c) esecuzione di opere scritte (gli operatori agiscono come esecutori di fronte a una partitura o a un copione).
+    c. esecuzione di opere scritte (gli operatori agiscono come esecutori di fronte a una partitura o a un copione).
 
 4.2. Le prospettive di organizzazione e di operatività di INTERMEDIA, partendo in primo luogo come iniziativa di musicista e di teatro musicale, sono legate ai circuiti in ispecie musicali, senza per questo trascurare altri circuiti teatrali.Il circuito musicale ha il vantaggio di essere legato a un particolare tipo di sovvenzionamento, che può evitare alcuni impacci del circuito teatrale (obbligo di un certo numero di repliche, borderau, etc.). In particolare il circuito più agevole è quello dell'attività in sedi concertistiche.
 
-4.3. Le possibilità operative potranno essere di due tipi: a) attività autogestita, con propria sovvenzione, b) attività a scrittura presso le sedi concertistiche ufficiali.
+4.3. Le possibilità operative potranno essere di due tipi: a. attività autogestita, con propria sovvenzione, b. attività a scrittura presso le sedi concertistiche ufficiali.
 
 4.4. Il lavoro immediato, da fare e su cui impegnarsi, può essere così schematizzato:
 
-    a) stages mensili, con un numero di ore da distribuire possibilmente accorpate, per seminari ed esercitazioni,
+    a. stages mensili, con un numero di ore da distribuire possibilmente accorpate, per seminari ed esercitazioni,
 
-    b) attività autogestita da effettuare in tardo autunno su sovvenzione già assegnata,
+    b. attività autogestita da effettuare in tardo autunno su sovvenzione già assegnata,
 
-    c) attività a scrittura da promuovere con invio di dépliants.
+    c. attività a scrittura da promuovere con invio di dépliants.
 
 Testo da mettere di seguito alle "Tesi"
 
