@@ -43,10 +43,12 @@ Raccolta di appunti, riflessioni, riassunti di esperienze e testi legati all'att
         - [Zuppa](#zuppa)
         - [Sound Pool](#sound-pool)
     - [Mendelberg](#mendelberg)
+    - [Martusciello](#martusciello)
   - [Altre fonti](#altre-fonti)
     - [Guaccero e **Intermedia**](#guaccero-e-intermedia)
         - [Tesi di **Intermedia**](#tesi-di-intermedia)
     - [Schiaffini e multimodalità](#schiaffini-e-multimodalità)
+  - [Fonti digitali](#fonti-digitali)
 
 
 ## Workshop di Walter Prati
@@ -174,6 +176,8 @@ Schiaffini descrive la sua fruttuosa collaborazione con Nono nei minimi dettagli
 
 Sebbene Schiaffini non si dilunghi su di lui, ne cita la totale padronanza della sua produzione compositiva, che nasceva da una sorta di flusso di coscienza che solo in secondo momento veniva elaborata e trascritta in forma di partitura. A causa di questo metodo di lavoro, Scelsi fu spesso accusato di aver usato trascrizioni di sessioni di improvvisazione con i suoi collaboratori per scrivere effettivamente gran parte del suo *corpus* compsitivo.
 
+Scelsi componeva registrando le sue improvvisazioni al pianoforte, le faceva trascrivere dai collaboratori e poi le rivedeva, annotandole e correggendole - See more at: http://www.rainews.it/archivio-rainews/articoli/musica-contemporanea-Giacinto-Scelsi-Fondazione-a9eed9e0-c932-4470-aefd-fb2ff51d9675.html
+
 ##### Improvvisazione libera e guidata (partiture/conduction)
 
 Schiaffini non commenta sulla connotazione che l'utilizzo di partiture grafiche, schemi o conduction abbiano sulla libertà d'espressione dell'esecutore improvvisatore; dal suo punto di vista, tutto è valido a condizione che si tengano in considerazione determinati elementi che, secondo lui, son più determinanti nell'atto pratico.
@@ -258,6 +262,10 @@ Diretta conseguenza di *Zuppa*, la logica è la stessa ma la libertà è totale.
 La composizione istantanea è integrazione di due aspetti, composizione ed improvvisazione, mirata ad un senso di liberazione espressiva.
 
 Componente umoristica: scenette teatrali in apertura dei concerti, approccio divertente ed imprevedibile all'improvvisazione dato dall'accostamento di diverse personalità e stili musicali.
+
+### Martusciello
+
+Entra in contatto con la conduction di Morris e ne identifica due criticità: clima aspro e austero, eccessivo numero di segnali. L'obiettivo della sua personale forma di conduction è installare un clima sereno e collaborativo e, al tempo stesso, semplificare la gestualità del conductor. Lavora sia con gruppi selezionati con cui può gestire al dettaglio il risultato sonoro ma trova affascinanti collaborazioni più libere con spazio temporale esteso dedicato ad espressioni di improvvisazione più libera da parte degli esecutori. Vedi libro per disamina della gestualità di Martusciello.
 
 ## Altre fonti 
 
@@ -380,3 +388,12 @@ Sono preferiti ambienti di esecuzione privi di strutture fisse, come ad esempio 
 *A cento metri comincia il bosco* composizione per improvvisazione e voce recitante.
 
 Collaborazioni che oscillano tra il totalmente programmato e totalmente improvvisato che spesso intrecciano recitazione, lettura di poesie o testi scritti, e supporti multimediali.
+
+## Fonti digitali
+
+https://www.youtube.com/watch?v=-DPmx1XxI2Q Schiaffini, Curran, improvvisazione per "Anni 70. Arte a Roma" 2014
+http://www.giomi.net/projects/anatomia/ Giomi, improvvisazione con live electronics con danza contemporanea
+https://www.instagram.com/reel/C97gcqoiB4d/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA== Giomi, improvvisazione con live electronics e danza contemporanea
+https://www.youtube.com/watch?v=bI6EZFG7d-w Nuova Consonanza, Omaggio a Scelsi, Musica Su Schemi, 1976
+https://it.wikipedia.org/wiki/Elio_Martusciello Elio Martusciello e riferimenti
+https://jazzin.lv/issues/i-35/free-improvisation-as-a-chess-game-for-four-players/ Album Free Impro
